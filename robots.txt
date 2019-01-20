@@ -1,0 +1,13 @@
+User-agent: *
+Allow: *.css
+ 
+User-agent: Yandex
+Allow: *.css
+Host: sunflower48.ru
+ 
+User-agent: Googlebot
+Allow: *.css
+Allow: *.js
+Allow: *.js
+ 
+Sitemap: http://sunflower48.ru/sitemap.xml
